@@ -12,4 +12,4 @@ return SUM;
     
 
 }
-SumArray([1, 10])
+console.log(SumArray([1, 10]))

@@ -20,4 +20,4 @@ function sumOfPrime(num2) {
     return sum;
 }
 
-sumOfPrime(50)
+console.log(sumOfPrime(50))
